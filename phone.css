@@ -1,0 +1,60 @@
+.main-nav{
+    flex-direction: column;
+}
+
+.company-logo img {
+    width: 100%;
+}
+
+.nav-links {
+    flex-basis: 0px;
+}
+
+.nav-links ul{
+    flex-wrap: wrap;
+        justify-content:start;
+        gap: 7px;
+}
+
+
+
+
+.header-section {
+    flex-direction: column;
+}
+
+.header-left {
+    margin-right: 0px;
+}
+
+.header-right img{
+    width: 100vw;
+    height: auto;
+}
+
+
+.card{
+    flex-direction: column;
+    max-width:100%;
+}
+
+
+.ignou-bca-footer {
+    flex-direction: column;
+}
+
+.ignou-bca-section-left img{
+    width: 100vw;
+}
+
+.footer-container {
+    flex-direction: column;
+}
+
+.aboutus{
+    width: 80%;
+}
+
+.info li p a{
+    font-size: small;
+}
